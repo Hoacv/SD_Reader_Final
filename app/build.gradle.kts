@@ -44,4 +44,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation("androidx.media3:media3-exoplayer:1.1.1") // Replace with the latest version
 }
